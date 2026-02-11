@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+background-color: #FFFFED;
+}
+
+.title{
+    text-align: center;
+    background-color: #BB3E18;
+    color: #FFFFED;
+    margin-bottom: 10px;
+}
+
+.lumpia-image{
+    width: 600px;
+    height: 400px;
+    display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+
+h2 {
+    font-family: sans-serif;
+    background-color: #BB3E18;
+    padding: 10px;
+}
+
+.descrip{
+    color: #FFFFED;
+}
+
+.descrip.des{
+    color: #2F4F4F;
+}
+
+.ingl{
+    margin: 0;
+    color: #FFFFED;
+}
+
+.ing-list{
+    color: #2F4F4F;
+}
+
+.steps{
+    color: #FFFFED;
+}
+
+.steps.des{
+    color: #2F4F4F;
+}
